@@ -3,6 +3,9 @@
 ## 프로젝트 개요
 사용자가 물품을 사고 팔 수 있는 [번개장터](https://m.bunjang.co.kr/) 서비스 클론 제작
 
+## 개발 기간
+2020년 3월 30일 ~ 4월 17일 (3주)
+
 ## 실행 방법
 ```
 1. Eclipse -> Project Import 선택 -> Project from Gits -> Clone URI 선택
