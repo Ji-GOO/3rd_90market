@@ -17,7 +17,7 @@ Front-end : HTML, CSS, JavaScript, JQuery
 
 ## 설계
 # 백로그
-<img src="https://user-images.githubusercontent.com/63104048/87004276-2250eb00-c1f8-11ea-97bc-21059b913e15.png" width="100%">
+<img src="https://user-images.githubusercontent.com/63104048/87004437-5debb500-c1f8-11ea-9f4e-7d2b0900fd88.png" width="100%">
 
 # JIRA 로드맵
 <img src="https://user-images.githubusercontent.com/63104048/87004366-43194080-c1f8-11ea-9d32-e884d46df734.png" width="100%">
