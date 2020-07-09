@@ -26,8 +26,8 @@ Front-end : HTML, CSS, JavaScript, JQuery
 <img src="https://user-images.githubusercontent.com/63104048/87004116-e158d680-c1f7-11ea-828b-d5bd14510b34.png" width="100%">
 
 ### 데이터베이스
-<img src="https://user-images.githubusercontent.com/63104048/87004555-925f7100-c1f8-11ea-85e0-8ee912220d65.png" width="100%">
-<img src="https://user-images.githubusercontent.com/63104048/87004591-9db29c80-c1f8-11ea-97e0-a35bfab91560.png" width="100%">
+<img src="https://user-images.githubusercontent.com/63104048/87004555-925f7100-c1f8-11ea-85e0-8ee912220d65.png" width="50%">
+<img src="https://user-images.githubusercontent.com/63104048/87004591-9db29c80-c1f8-11ea-97e0-a35bfab91560.png" width="65%">
   
 ## 기능
 - 회원 기능
