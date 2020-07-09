@@ -16,7 +16,7 @@ Front-end : HTML, CSS, JavaScript, JQuery
 2020년 3월 30일 ~ 4월 17일 (3주)
 
 ## 아키텍처
-<img src="https://user-images.githubusercontent.com/63104048/87004044-bec6bd80-c1f7-11ea-9c4c-6f84763f9463.png" width="100%">
+<img src="https://user-images.githubusercontent.com/63104048/87004116-e158d680-c1f7-11ea-828b-d5bd14510b34.png" width="100%">
   
 ## 기능
 - 회원 기능
