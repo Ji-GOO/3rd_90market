@@ -1,27 +1,24 @@
 ![90market](https://user-images.githubusercontent.com/48228245/80719018-d6b5fd00-8b35-11ea-9edc-627a5660cc03.png)
 
-## 프로젝트 개요
+## 프로젝트 주제
+판매자가 등록한 상품을 구매할 수 있도록 중개해주는 중고 거래 사이트
 사용자가 물품을 사고 팔 수 있는 [번개장터](https://m.bunjang.co.kr/) 서비스 클론 제작
+
+## 개발 인원
+총 3명. (백엔드 2명, 프론트엔드 1명)
+
+## 기술 스택
+Back-end : Java 11, Spring 5, Tomcat 8.5, MySQL, MyBatis, JSP
+Front-end : HTML, CSS, JavaScript, JQuery
+개발 툴 : Eclipse
 
 ## 개발 기간
 2020년 3월 30일 ~ 4월 17일 (3주)
 
-## 실행 방법
-```
-1. Eclipse -> Project Import 선택 -> Project from Gits -> Clone URI 선택
-2. 구공마켓 URI 복사 후 붙여넣고 Clone
-3. Tomcat 설정 후 실행
-```
-## 개발 스택
-- BackEnd
-  - Java, Spring, MySQL, MyBatis
-- FrontEnd
-  - HTML, CSS, JavaScript
-
 ## 아키텍처
 ![ClassStructure](https://user-images.githubusercontent.com/48228245/80710943-86856d80-8b2a-11ea-88f0-6d2ab1df7c6e.png)
   
-## 구현 기능
+## 기능
 - 회원 기능
   - 회원가입, 회원 정보수정, 회원탈퇴
   - 이메일 인증, 패스워드 암호화
