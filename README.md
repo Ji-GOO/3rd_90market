@@ -16,14 +16,18 @@ Front-end : HTML, CSS, JavaScript, JQuery
 2020년 3월 30일 ~ 4월 17일 (3주)
 
 ## 설계
-# 백로그
+### 백로그
 <img src="https://user-images.githubusercontent.com/63104048/87004437-5debb500-c1f8-11ea-9f4e-7d2b0900fd88.png" width="100%">
 
-# JIRA 로드맵
+### JIRA 로드맵
 <img src="https://user-images.githubusercontent.com/63104048/87004366-43194080-c1f8-11ea-9d32-e884d46df734.png" width="100%">
 
-# 아키텍처
+### 아키텍처
 <img src="https://user-images.githubusercontent.com/63104048/87004116-e158d680-c1f7-11ea-828b-d5bd14510b34.png" width="100%">
+
+### 데이터베이스
+<img src="https://user-images.githubusercontent.com/63104048/87004555-925f7100-c1f8-11ea-85e0-8ee912220d65.png" width="100%">
+<img src="https://user-images.githubusercontent.com/63104048/87004591-9db29c80-c1f8-11ea-97e0-a35bfab91560.png" width="100%">
   
 ## 기능
 - 회원 기능
