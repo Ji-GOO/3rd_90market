@@ -27,7 +27,7 @@ Front-end : HTML, CSS, JavaScript, JQuery
 
 ### 데이터베이스
 <img src="https://user-images.githubusercontent.com/63104048/87004659-c044b580-c1f8-11ea-9c65-6a20f7b3ef2e.png" width="40%">
-<img src="https://user-images.githubusercontent.com/63104048/87004591-9db29c80-c1f8-11ea-97e0-a35bfab91560.png" width="65%">
+<img src="https://user-images.githubusercontent.com/63104048/87004591-9db29c80-c1f8-11ea-97e0-a35bfab91560.png" width="50%">
   
 ## 기능
 - 회원 기능
