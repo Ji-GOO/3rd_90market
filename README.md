@@ -15,7 +15,14 @@ Front-end : HTML, CSS, JavaScript, JQuery
 ## 개발 기간
 2020년 3월 30일 ~ 4월 17일 (3주)
 
-## 아키텍처
+## 설계
+# 백로그
+<img src="https://user-images.githubusercontent.com/63104048/87004276-2250eb00-c1f8-11ea-97bc-21059b913e15.png" width="100%">
+
+# JIRA 로드맵
+<img src="https://user-images.githubusercontent.com/63104048/87004366-43194080-c1f8-11ea-9d32-e884d46df734.png" width="100%">
+
+# 아키텍처
 <img src="https://user-images.githubusercontent.com/63104048/87004116-e158d680-c1f7-11ea-828b-d5bd14510b34.png" width="100%">
   
 ## 기능
